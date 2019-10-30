@@ -8,4 +8,4 @@ aws cloudformation create-stack \
 # aws cloudformation create-stack
 # --stack-name MyStack
 #  --template-body file://MyCloudformationScript.yml
-# --parameters file://MyEnvironmentVariables.json 
+# --parameters file://MyEnvironmentVariables.json
